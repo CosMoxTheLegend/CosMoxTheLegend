@@ -1,3 +1,4 @@
+[![MasterHead](https://media1.tenor.com/m/Cxhbf20E_EoAAAAC/banner.gif)](https://CosMoxTheLegend.io)
 <h1 align="center">Hi 👋, I'm Cosy</h1>
 <h3 align="center">A passionate student developer</h3>
 <img align="right" alt="gif" width="300" src="https://media1.tenor.com/m/PE48JnD2Cv8AAAAC/aesthetic-kikisdeliveryservice.gif">
