@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cosy</h1>
 <h3 align="center">A passionate student developer</h3>
-<img align="right" alt="gif" width="400" src="https://giffiles.alphacoders.com/220/220122.gif">
+<img align="right" alt="gif" width="300" src="https://media1.tenor.com/m/PE48JnD2Cv8AAAAC/aesthetic-kikisdeliveryservice.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmoxthelegend&label=Profile%20views&color=0e75b6&style=flat" alt="cosmoxthelegend" /> </p>
 
